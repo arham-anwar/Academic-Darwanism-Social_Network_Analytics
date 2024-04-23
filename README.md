@@ -1,4 +1,4 @@
-![Slide 01](02_Powerpoint/powerpoint/01.jpg)
+![Slide 01](02_Powerpoint/powerpoint/01.jpeg)
 ![Slide 02](02_Powerpoint/powerpoint/02.jpg)
 ![Slide 03](02_Powerpoint/powerpoint/03.jpg)
 ![Slide 04](02_Powerpoint/powerpoint/04.jpg)
