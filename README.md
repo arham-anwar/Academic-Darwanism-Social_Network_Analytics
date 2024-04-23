@@ -1,5 +1,9 @@
 [![Slide 01](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide1.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide1.jpeg)
+
+
 [![Slide 02](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide2.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide2.jpeg)
+
+
 [![Slide 03](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide3.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide3.jpeg)
 [![Slide 04](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide4.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide4.jpeg)
 [![Slide 05](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide5.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide5.jpeg)
