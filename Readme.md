@@ -19,3 +19,4 @@
 19. ![Slide 19](02_Powerpoint/powerpoint/19.jpg)
 20. ![Slide 20](02_Powerpoint/powerpoint/20.jpg)
 21. ![Slide 21](02_Powerpoint/powerpoint/21.jpg)
+
