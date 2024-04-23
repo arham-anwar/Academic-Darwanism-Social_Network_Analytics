@@ -1,6 +1,27 @@
 [![Slide 01](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide1.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide1.jpeg)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Slide 02](SocialMediaAnalytics_GroupProject/02_Powerpoint/powerpoint/Slide2.jpeg)](https://github.com/arham-anwar/SocialMediaAnalytics_GroupProject/blob/final/02_Powerpoint/powerpoint/Slide2.jpeg)
 
 
