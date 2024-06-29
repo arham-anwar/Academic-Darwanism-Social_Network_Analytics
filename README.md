@@ -1,4 +1,4 @@
-# Organic Feedback Mining and Social Media Analytics
+# Academic Darwanism - Social Media Analytics
 
 ## Overview
 
