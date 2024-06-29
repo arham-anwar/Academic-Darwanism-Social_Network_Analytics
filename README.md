@@ -10,15 +10,17 @@ We address two main issues:
 1. **Impeded dissemination of resources**: Inadequate communication strategies within student social networks hinder the dissemination of support resources, affecting academic performance and retention.
 2. **Social mobility restrictions**: Information diversity bottlenecks due to students staying in cliques limit the university's potential in terms of projects and extracurricular activities.
 
-## Data Strategy
+## Key Findings
 
-### Proxy Data Sourcing:
-- **Source**: Dataset containing the evolution of a friendship network of 6,000 students over 42 months based on social interactions from VK (Russia's largest social site).
-- **Data Description**: Includes academic performance data at several time points and detailed information about friendship networks.
+- **Homophily Dominance**: Students prefer to reorganize their social networks based on performance levels.
+- **Prediction of GPA**: High network centrality correlates with higher GPA, i.e., where a student places in the social network is indicative of GPA performance.
+- **Identification of Communities & Influencers**: Identified core nodes for strategic communication and resource dissemination using previous findings.
 
-### Data Transformation:
-- **ETL Process**: Extract, transform, and load the data for analysis.
-- **Network Construction**: Build friendship networks where nodes represent students and edges represent mutual "likes."
+## Business Value and Expected Impact
+
+- Tailored communication strategies to ensure inclusive engagement.
+- Targeted support initiatives to improve academic outcomes.
+- Amplified outreach efforts through influential nodes, promoting community involvement.
 
 ## Solution Approach
 
@@ -40,17 +42,6 @@ We address two main issues:
 - **Greedy Modularity Algorithm**: Identify and analyze community structure within student networks.
 - **HITS Algorithm**: Identify core nodes (hubs and authorities) within the communities for targeted interventions.
 
-## Key Findings
-
-- **Homophily Dominance**: Students prefer to reorganize their social networks based on performance levels.
-- **Prediction of GPA**: High network centrality correlates with higher GPA.
-- **Identification of Communities & Influencers**: Identified core nodes for strategic communication and resource dissemination.
-
-## Business Value and Expected Impact
-
-- Tailored communication strategies to ensure inclusive engagement.
-- Targeted support initiatives to improve academic outcomes.
-- Amplified outreach efforts through influential nodes, promoting community involvement.
 
 ## Technologies Used
 
@@ -58,8 +49,6 @@ We address two main issues:
 - Random Forest regression
 - SHAP analysis for model interpretability
 - Data preprocessing and transformation
-
-## Instructions to Replicate the Model
 
 ### Prerequisites
 
